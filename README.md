@@ -61,4 +61,5 @@ This exercise focuses on creating a simple inventory application using ASP.NET C
 3. Send the result to the view.
 4. Create a search form on the page with a button to search for products. Use Form Tag Helpers.
 
-This is an overview guide for building a simple inventory application with MVC in ASP.NET Core. Explore each step and understand how everything fits together to gain a deeper understanding of MVC architecture. Good luck!
+## Author
+[Emre Demirel](https://github.com/98emre)
